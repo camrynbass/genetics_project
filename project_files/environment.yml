@@ -1,0 +1,3 @@
+name: project_environment
+variables:
+  LOCAL_DIR: /path/to/your/local/dir
