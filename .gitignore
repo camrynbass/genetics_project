@@ -162,9 +162,9 @@ cython_debug/
 .pypirc
 
 # Project-specific support files
-plink/
-plink2/
-ref_data/
-PopLDdecay/
-exome_list.txt
-.log
+project_files/plink/
+project_files/plink2/
+project_files/ref_data/
+project_files/PopLDdecay/
+project_files/exome_list.txt
+*.log
