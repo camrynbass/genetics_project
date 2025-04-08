@@ -1,6 +1,5 @@
-# Cam's Genetics project
-
-The Genetics of Autoimmune and Connective Tissue Disorders
+# Current project: The Genetics of Autoimmune and Connective Tissue Disorders  
+  
 ## Abstract
 EDS is a heritable connective tissue disorder that affects the elements of the skin, joints, and blood vessels. It is associated with many potential deleterious genetic variants. EDS is characterized by joint hypermobility, tissue fragility, and can lead to a range of complications, including joint dislocations, chronic pain, and cardiovascular problems. 
 
